@@ -7,7 +7,7 @@ public class assignment2_task2 {
 		System.out.println("Testig Testig toString() in Person");
 		System.out.println(people);
 		System.out.println("_____________________________" );
-		Student stu = new Student("George", "Moon street", "1234567891", "b@c.com", "enrolled");
+		Student stu = new Student("George", "Moon street", "1234567891", "b@c.com", "freshman");
 		System.out.println("Testig toString() in Student");
 		System.out.println(stu);
 		Employee emp = new Employee("John", "Star street", "1234567891", "c@d.com", "Downtown", 1000, 561555550000L);
